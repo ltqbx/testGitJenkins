@@ -1,0 +1,15 @@
+ Le volume dans le lecteur C s'appelle System
+ Le num‚ro de s‚rie du volume est 5AE2-3455
+
+ R‚pertoire de C:\Users\tronly\Documents\testJenkinsGit
+
+04/06/2019  12:30    <DIR>          .
+04/06/2019  12:30    <DIR>          ..
+03/06/2019  18:58                 5 draf.txt
+04/06/2019  12:21                 3 draf2.txt
+04/06/2019  12:30                 0 draf3.txt
+04/06/2019  10:57            67ÿ712 jmeter.save.saveservice.output_format=xml
+28/05/2019  16:13            10ÿ171 jmeter_flood_example.jmx
+04/06/2019  12:08         2ÿ001ÿ990 report.jtl
+               6 fichier(s)        2ÿ079ÿ881 octets
+               2 R‚p(s)  19ÿ332ÿ173ÿ824 octets libres
